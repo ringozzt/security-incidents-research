@@ -44,6 +44,8 @@
 `digests/` 存放**每日**从 GitHub Trending 抓取的安全相关事故、漏洞、工具信息摘要。  
 格式约定见 [digests/README.md](digests/README.md)；空模板见 [digests/_TEMPLATE.md](digests/_TEMPLATE.md)。
 
+**最新日报：** [2026-10-23](digests/2026-10-23.md)
+
 ## 可信度约定（沿用原文）
 
 - **已确认**：一手公告或多家独立机构交叉证实  
